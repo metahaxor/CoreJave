@@ -15,7 +15,7 @@ public class DeserilzableDemo {
 		
 		ois.close();
 		
-		System.out.println(a1+" "+a4+" "+a3); 
+		System.out.println(a1+" "+a4+" "+a3); //
 	}
 
 }
